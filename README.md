@@ -9,7 +9,7 @@ Open the ``Main.ipynb`` in your favorite IPython-Notebook editor, e.g. JupyterLa
 
 # Contributors
 * Robin Sasse
-* 
+* Philipp Schmid
 * Tobias Weinschenk
 
 Last but not least we would like to thank our supervisor **Felix Huber**, for making this project possible and providing guidance and feedback.
