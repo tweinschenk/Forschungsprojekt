@@ -8,7 +8,7 @@ To run this project you need to have [opendihu](https://github.com/maierbn/opend
 Open the ``Main.ipynb`` in your favorite IPython-Notebook editor, e.g. JupyterLab and follow the steps described there.
 
 # Contributors
-* 
+* Robin Sasse
 * 
 * Tobias Weinschenk
 
